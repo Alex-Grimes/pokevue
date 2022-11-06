@@ -1,7 +1,8 @@
 <template>
     <div>
         <h1 class="name">Bulbasaur</h1>
-        <img src="" />
+        <img src="../assets/logo.svg" />
+        <p class="type">Grass</p>
     </div>
 </template>
 
