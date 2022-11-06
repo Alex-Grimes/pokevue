@@ -8,11 +8,7 @@
 
 <script>
 export default {
-    setup() {
-
-
-        return {}
-    }
+    name: "pokemonVue",
 }
 </script>
 
